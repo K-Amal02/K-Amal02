@@ -1,1 +1,1 @@
-# Hi there! 👋 I'm Amal
+# Hi ! 👋 I'm Amal
