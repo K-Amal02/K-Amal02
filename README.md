@@ -41,7 +41,7 @@
 
 ---
 
-## `// activité github`
+## 📊 Activity
 
 <div align="center">
 
