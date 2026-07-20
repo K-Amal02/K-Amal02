@@ -46,9 +46,7 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-Amal02&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c6f1f6&icon_color=06b6d4&text_color=8b949e)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Amal02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C6F1F6&text_color=8b949e)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=K-Amal02&theme=github-dark-blue&hide_border=true&background=0d1117&ring=C6F1F6&fire=06b6d4&currStreakLabel=c6f1f6)
 
 </div>
