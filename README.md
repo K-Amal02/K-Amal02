@@ -3,21 +3,15 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=B5BFF6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Amal+👋;Data+Scientist;Always+learning...)](https://git.io/typing-svg)
 
-```
-> class DataScientist:
-    focus = ["ML", "Deep Learning", "Big Data"]
-    status = "always training"
-```
-
-*Passionnée par la donnée et les systèmes intelligents.*
-*Je construis des modèles prédictifs, explore des architectures de deep learning,*
-*et transforme des datasets bruts en insights actionnables.*
+*Passionate about data and intelligent systems.*
+*I build predictive models, explore deep learning architectures,*
+*and turn raw datasets into actionable insights.*
 
 </div>
 
 ---
 
-## 🛠️ Stack
+## ⏵ Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -43,7 +37,7 @@
 
 ---
 
-## 📊 Activity
+## ⏵ Activity
 
 <div align="center">
 
@@ -61,7 +55,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amal-k-1034b2217)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amalkramti02@gmail.com)
 
 ---
