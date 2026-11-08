@@ -4,7 +4,9 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=B5BFF6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Amal+👋;Data+Scientist;Always+learning...)](https://git.io/typing-svg)
 
 ```
-> Data Scientist
+> class DataScientist:
+    focus = ["ML", "Deep Learning", "Big Data"]
+    status = "always training"
 ```
 
 *Passionnée par la donnée et les systèmes intelligents.*
