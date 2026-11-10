@@ -3,6 +3,12 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=B5BFF6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Amal+👋;Data+Scientist;Always+learning...)](https://git.io/typing-svg)
 
+<div align="center">
+
+![Views](https://komarev.com/ghpvc/?username=moon2&style=flat-square&color=06b6d4&label=VIEWS)
+
+</div>
+
 *Passionate about data and intelligent systems.*
 *I build predictive models, explore deep learning architectures,*
 *and turn raw datasets into actionable insights.*
@@ -54,8 +60,8 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amal-k-1034b2217)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amalkramti02@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/)
 
 ---
 
